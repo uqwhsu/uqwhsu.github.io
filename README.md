@@ -3,6 +3,11 @@ Freelancer Jekyll theme
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
+## Changes
+ - Enable **Back to Top** button for all screen sizes
+ - Relevant screenshot.png
+ - Updated README.me
+
 ## How to use
  - Place a image in `/img/portoflio/`
  - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
@@ -23,10 +28,12 @@ description: The description of the project
 ```
 
 ## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+View this jekyll theme in action [here](https://uqwhsu.github.io/)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/uqwhsu/uqwhsu.github.io/master/screenshot.png)
 
 =========
-For more details, read the [documentation](http://jekyllrb.com/)
+## Additional Information
+Please see: [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme)
+For more details about Jekyll, read the [documentation](http://jekyllrb.com/)

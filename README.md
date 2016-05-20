@@ -6,7 +6,7 @@ Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/te
 ## Changes
  - Enable **Back to Top** button for all screen sizes
  - Relevant screenshot.png
- - Updated README.me
+ - Updated README.md
 
 ## How to use
  - Place a image in `/img/portoflio/`

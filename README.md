@@ -36,4 +36,5 @@ View this jekyll theme in action [here](https://uqwhsu.github.io/)
 =========
 ## Additional Information
 Please see: [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme)
+
 For more details about Jekyll, read the [documentation](http://jekyllrb.com/)

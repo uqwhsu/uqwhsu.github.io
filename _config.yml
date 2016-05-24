@@ -34,7 +34,7 @@ footer:
   copyright: Will Hsu
   location: Location
   social: Connect
-#  credits: Credits
+  credits: Link
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Brisbane, Australia
 
 # Credits content
-credits:
+credits: <a href="https://hub.docker.com/u/uqwhsu/">Docker Hub</a>
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
